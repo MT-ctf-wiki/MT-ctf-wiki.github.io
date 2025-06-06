@@ -1,2 +1,3 @@
-# MT-ctf-wiki.github.io
+# Mintest CTF Wiki
+
 The Wiki for Minetest CTF
